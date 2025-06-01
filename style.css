@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #808000;
+    background-color: #808000; /* Olive */
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -32,7 +32,7 @@ section {
     padding: 40px;
     margin: 30px auto;
     width: 85%;
-    background-color: #e0e0e0;
+    background-color: #e0e0e0; /* Light grey background for sections */
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     animation: fadeInUp 1s ease;
@@ -84,6 +84,7 @@ footer {
     font-size: 14px;
 }
 
+/* Fade in animation */
 @keyframes fadeInUp {
     from {
         transform: translateY(20px);
@@ -95,6 +96,7 @@ footer {
     }
 }
 
+/* Responsive for mobile */
 @media screen and (max-width: 768px) {
     section {
         width: 95%;
