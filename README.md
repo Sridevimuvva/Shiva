@@ -13,8 +13,8 @@ This is a responsive and modern web portfolio for **Shivaprasad Reddy Munagala**
 ## 🔗 Live Site
 
 > Once deployed using GitHub Pages, your portfolio will be accessible here:  
-> `https://your-github-username.github.io/portfolio/`  
-> _(Replace `your-github-username` with your actual GitHub username)_
+> `https://shivaprasadreddy.github.io/portfolio/`  
+
 
 ## 🗂️ Files
 
