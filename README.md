@@ -1,80 +1,48 @@
-# Shiva
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shivaprasad Reddy Munagala | Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Shivaprasad Reddy Munagala</h1>
-        <p>Software Engineer | Full-Stack Developer | Tech Enthusiast</p>
-        <p>📍 Exton, PA | 📧 <a href="mailto:Shivaprasad3841@gmail.com">Shivaprasad3841@gmail.com</a> | 📱 667-445-8868</p>
-    </header>
+# 💼 Shivaprasad Reddy Munagala - Professional Portfolio
 
-    <section id="summary">
-        <h2>Summary</h2>
-        <p>Highly motivated software engineering individual, with proven programming skills in Python, Java, and C. Experienced in database management and successful project completion. Seeking a challenging software engineering internship to utilize technical skills, and contribute to innovative projects. Adaptable and eager to learn in a dynamic environment.</p>
-    </section>
+This is a responsive and modern web portfolio for **Shivaprasad Reddy Munagala**, built using HTML and CSS. The design follows a professional layout with an **olive header/footer**, **light grey content sections**, and **Calibri font** for a clean reading experience.
 
-    <section id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li><strong>Programming Languages:</strong> Python, Java, JavaScript, C</li>
-            <li><strong>Front-End Development:</strong> React, HTML, CSS</li>
-            <li><strong>Databases:</strong> SQL, MySQL</li>
-            <li><strong>Software Development:</strong> Full stack, Git</li>
-        </ul>
-    </section>
+## 📌 Features
 
-    <section id="experience">
-        <h2>Experience</h2>
-        <div class="card">
-            <h3>Associate Software Engineer | enewvision solutions | Hyderabad, Telangana (Nov 2022 – Aug 2023)</h3>
-            <ul>
-                <li>Developed and maintained application modules using Python and Java.</li>
-                <li>Supported and maintained existing projects for stability and performance.</li>
-                <li>Communicated with clients to gather requirements and build technical solutions.</li>
-                <li>Diagnosed and resolved bugs through debugging and problem-solving techniques.</li>
-            </ul>
-        </div>
-    </section>
+- Responsive layout (mobile-friendly)
+- Calibri font for clean readability
+- Olive and grey color scheme for professional tone
+- Sectioned layout: Summary, Skills, Experience, Education, Projects
+- Hover animations on project and experience cards
 
-    <section id="education">
-        <h2>Education</h2>
-        <p><strong>Master of Science:</strong> Information Systems Technology (Expected Dec 2025)<br>
-        Wilmington University, New Castle, DE | GPA: 3.77<br>
-        Courses: Analysis, Modeling, and Design, Planning for Information Security, Cloud Management</p>
+## 🔗 Live Site
 
-        <p><strong>Bachelor of Technology:</strong> Electronics and Communications Engineering (Aug 2022)<br>
-        Sreyas Institute of Engineering and Technology | GPA: 3.44<br>
-        Courses: Python, Database Management Systems, C, Embedded Systems</p>
-    </section>
+> Once deployed using GitHub Pages, your portfolio will be accessible here:  
+> `https://your-github-username.github.io/portfolio/`  
+> _(Replace `your-github-username` with your actual GitHub username)_
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="card">
-            <h3>Malware Analysis</h3>
-            <ul>
-                <li>Used tools like Procmon, Autoruns, and Process Explorer.</li>
-                <li>Recorded registry changes, file drops, and persistence methods.</li>
-                <li>Documented Indicators of Compromise (IOCs) and mitigation strategies.</li>
-            </ul>
-        </div>
-        <div class="card">
-            <h3>Vulnerability Scanning Lab</h3>
-            <ul>
-                <li>Set up Metasploitable2/DVWA for vulnerability testing.</li>
-                <li>Performed scans using Nmap and OpenVAS.</li>
-                <li>Identified, prioritized vulnerabilities and documented remediation steps.</li>
-            </ul>
-        </div>
-    </section>
+## 🗂️ Files
 
-    <footer>
-        <p>&copy; 2025 Shivaprasad Reddy Munagala. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+- `index.html` — The main HTML file containing portfolio content
+- `style.css` — The CSS file for styling and responsiveness
+- `README.md` — This documentation file
+
+## 🚀 Getting Started
+
+To deploy the portfolio:
+
+1. Clone or download this repository
+2. Open `index.html` in any modern browser to view locally
+3. To host online:
+   - Upload to GitHub
+   - Go to `Settings` → `Pages`
+   - Choose `main` branch and root directory (`/`)
+   - Your site will be live in 1–2 minutes
+
+## 🧾 About
+
+Created as a personal web portfolio to showcase:
+- Educational background
+- Technical skillset
+- Work experience
+- Academic projects
+
+---
+
+**© 2025 Shivaprasad Reddy Munagala**  
+For inquiries, contact [Shivaprasad3841@gmail.com](mailto:Shivaprasad3841@gmail.com)
